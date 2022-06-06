@@ -22,6 +22,18 @@
 
 
     <string name="slogan_name">Şehrinizdeki her şey burada!</string>
+    <string name="startup_heading">Şehrinizi\nKeşfe Çıkın</string>
+    <string name="startup_tag_line">Şehrinizde ihtiyacınız olan yerleri kolayca öğrenip fikir edinmenize yardımcı olacağız!</string>
+    <string name="create_account">Kaydol</string>
+    <string name="login">Giriş</string>
+    <string name="enter_username">Kullanıcı adı</string>
+    <string name="enter_password">Şifre</string>
+    <string name="remember_me">Beni Hatırla</string>
+    <string name="enter_full_name">Adınız</string>
+    <string name="enter_last_name">Soyadınız</string>
+    <string name="enter_email">E-mail</string>
+    <string name="next_btn">İleri</string>
+
 
 </resources>
 

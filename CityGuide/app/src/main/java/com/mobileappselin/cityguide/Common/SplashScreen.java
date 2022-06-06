@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
+import com.mobileappselin.cityguide.Common.LoginSignUp.Startup_Screen;
 import com.mobileappselin.cityguide.R;
 import com.mobileappselin.cityguide.User.UserDashboard;
 
@@ -22,7 +23,7 @@ public class SplashScreen extends AppCompatActivity {
             @Override
             public void run() {
 
-                Intent intent = new Intent(getApplicationContext(), UserDashboard.class);
+                Intent intent = new Intent(getApplicationContext(), Startup_Screen.class);
                 startActivity(intent);
                 finish();
 
